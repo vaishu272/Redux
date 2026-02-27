@@ -10,7 +10,7 @@ This app fetches live exchange rates and allows users to convert between currenc
 Add your screenshots here:
 
 ```md
-![Converter UI](./src/assets/ui.png)
+![Converter UI](./src/assets/currency.png)
 ```
 
 ---
